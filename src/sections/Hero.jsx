@@ -2,8 +2,8 @@ import dev from "../assets/dev-removebg.png";
 
 function Hero() {
   return (
-    <section id="hero-section">
-      <div className="container mx-auto mt-2 px-8 py-32 flex flex-col items-center justify-center md:space-x-10 rounded-3xl md:flex-row">
+    <section id="hero-section" className="shadow-2xl">
+      <div className="container mx-auto mt-2 px-8 py-32 flex flex-col items-center justify-center md:space-x-10  md:flex-row">
         {/* Left Item */}
         <div>
           <h1 className="make-hero-title text-center text-5xl md:text-6xl ">

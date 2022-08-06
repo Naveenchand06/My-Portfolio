@@ -8,7 +8,10 @@ function AboutMe() {
         <h2 className="text-3xl md:text-4xl mt-6 popin-black">Who am I?</h2>
         <div className="md:px-24">
           <p className="mt-16 text-xl md:text-2xl about-bio">
-          <p>As an energetic individual i got keen interest towards mobile and web development.</p>
+            <p>
+              As an energetic individual i got keen interest towards mobile and
+              web development.
+            </p>
             {/* <p>
               I'm an energetic individual with a passion for mobile and web
               development.
